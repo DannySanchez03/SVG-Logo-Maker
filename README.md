@@ -1,11 +1,11 @@
-# SVG-logo-Maker
+# SVG-Logo-Maker
 9th Challenge
 
-Created: [here](https://dannysanchez03.github.io/10ModChallenge/)
+Created: [here](https://dannysanchez03.github.io/SVG-Logo-Maker/)
 
 ## Description
 
-In this 10th Challenge I continued to expand my knowlegde on inquirer and I also found out about jest, jest is a package that can be used for creating test's to make sure everything is working the way its supposed too. When the test script is ran through the terminal, console, bash, powershell, etc, then it will ask the user what type of shape they want to use on the background of the logo, and it will also ask the user for a input of words to put on the logo.
+In this 9th Challenge I continued to expand my knowlegde on inquirer and I also found out about jest, jest is a package that can be used for creating test's to make sure everything is working the way its supposed too. When the test script is ran through the terminal, console, bash, powershell, etc, then it will ask the user what type of shape they want to use on the background of the logo, and it will also ask the user for a input of words to put on the logo.
 
 ## Installation
 
