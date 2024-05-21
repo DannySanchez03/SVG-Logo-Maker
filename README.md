@@ -1,9 +1,11 @@
-# 10ModChallenge
-10 Object-oriented Programming: SVG Logo Maker Deployed: https://dannysanchez03.github.io/10ModChallenge/
+# SVG-logo-Maker
+9th Challenge
+
+Created: [here](https://dannysanchez03.github.io/10ModChallenge/)
 
 ## Description
 
-In this Module 10 Challenge we were told to use node.js express and jest package's and create a app that uses the user input to quickly make a logo for the company without having to pay a graphic desiner to do it.
+In this 10th Challenge I continued to expand my knowlegde on inquirer and I also found out about jest, jest is a package that can be used for creating test's to make sure everything is working the way its supposed too. When the scr
 
 ## Installation
 
