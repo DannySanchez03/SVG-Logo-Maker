@@ -1,7 +1,7 @@
 # SVG-Logo-Maker
 9th Challenge
 
-Created: [here](https://dannysanchez03.github.io/SVG-Logo-Maker/)
+Created: [here](https://github.com/DannySanchez03/SVG-Logo-Maker)
 
 ## Description
 
