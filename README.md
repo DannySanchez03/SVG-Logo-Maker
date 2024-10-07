@@ -1,5 +1,5 @@
 # SVG-Logo-Maker
-9th Challenge
+10th Challenge
 
 Created: [here](https://github.com/DannySanchez03/SVG-Logo-Maker)
 
